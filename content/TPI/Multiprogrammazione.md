@@ -1,0 +1,1 @@
+La multiprogrammazione è la contemporanea presenza di più programmi in memoria.

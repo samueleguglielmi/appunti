@@ -1,0 +1,1 @@
+All’atto del caricamento in memoria del [[Programma]] viene individuato l’indirizzo iniziale (indirizzo base) e viene sommato a tutti i riferimenti presenti nel programma (offset); 
